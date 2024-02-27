@@ -21,9 +21,11 @@ The EDA aimed at uncovering patterns, anomalies, and correlations within the dat
 Due to the limit on the number of visualisations, we highlight the most insightful ones:
 
 1. **Correlation Heatmap**: Provides insights into how different variables relate to each other and their impact on loan approval.
-   - [Placeholder for correlation heatmap visualisation]
+  ![image](https://github.com/Illias-b/Loan-Approval-Prediction/assets/33836566/bb423766-2ebf-4c53-9d78-dec87aa9076d)
+
 2. **Count Plot for Loan Status**: Offers a clear view of the distribution of loan approval outcomes across applicants.
-   - [Placeholder for count plot visualisation]
+![newplot](https://github.com/Illias-b/Loan-Approval-Prediction/assets/33836566/35f2e9ed-4649-4ec8-949d-ae7d10118e3d)
+
 3. **Box Plot for ApplicantIncome (Before and After Outlier Removal)**: Showcases the impact of outlier removal on the distribution of applicant incomes.
    - [Placeholder for box plot visualisation]
 
