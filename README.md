@@ -20,6 +20,7 @@ The EDA aimed at uncovering patterns, anomalies, and correlations within the dat
 
 Due to the limit on the number of visualisations, we highlight the most insightful ones:
 
+
 1. **Correlation Heatmap**: Provides insights into how different variables relate to each other and their impact on loan approval.
 ![image](https://github.com/Illias-b/Loan-Approval-Prediction/assets/33836566/bb423766-2ebf-4c53-9d78-dec87aa9076d)
 
