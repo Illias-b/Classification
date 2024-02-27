@@ -27,7 +27,7 @@ Due to the limit on the number of visualisations, we highlight the most insightf
 2. **Count Plot for Loan Status**: Offers a clear view of the distribution of loan approval outcomes across applicants.
 ![image](https://github.com/Illias-b/Loan-Approval-Prediction/assets/33836566/a88b0c26-fe5c-4f42-b18d-8f2d4e1e588c)
 
-3. **Box Plot for ApplicantIncome (Before and After Outlier Removal)**: Showcases the impact of outlier removal on the distribution of applicant incomes.
+3. **Box Plot for ApplicantIncome (Before Outlier Removal)**: Showcases the impact of outlier removal on the distribution of applicant incomes.
 ![newplot](https://github.com/Illias-b/Loan-Approval-Prediction/assets/33836566/35f2e9ed-4649-4ec8-949d-ae7d10118e3d)
 
 These visualisations played a crucial role in understanding the data, guiding our preprocessing and modelling strategies.
@@ -56,4 +56,4 @@ The performance of these models was assessed through accuracy and cross-validati
 
 ## Conclusion
 
-This report illustrates the systematic approach taken to predict loan approval using machine learning. Through data cleaning, EDA, outlier management, feature engineering, and model comparison, we developed a robust framework for loan approval prediction. Future work could explore more complex models and feature engineering techniques to further improve prediction accuracy.
+In this report, we navigated through the prediction of loan approval outcomes, culminating in the selection of the Support Vector Machine (SVM) model for its effective balance of precision and efficiency. This choice underscores the model's capability to accurately predict loan approvals, offering a valuable tool for financial decision-making. Future efforts will aim to refine this model further, enhancing its predictive power for loan applicants' outcomes.
