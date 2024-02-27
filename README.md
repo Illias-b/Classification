@@ -1,5 +1,7 @@
 # Loan Approval Prediction: A Comprehensive Machine Learning Analysis
 
+[View the Jupyter Notebook](https://github.com/Illias-b/Loan-Approval-Notebook.git) 
+
 ## Introduction
 
 The task of predicting loan approval is pivotal in the banking and finance sector, enabling informed decision-making. This report delineates a detailed machine learning project aimed at forecasting loan approval outcomes based on diverse applicant attributes. The process encompasses data preparation, exploratory data analysis (EDA), visualisation, outlier management, feature engineering, model training, evaluation, and comparison.
