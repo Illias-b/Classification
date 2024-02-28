@@ -28,6 +28,9 @@ A correlation heatmap was constructed to identify relationships between key nume
 
 The identification and treatment of outliers in income and loan amount data were crucial steps in ensuring the integrity and reliability of the predictive models. Outliers, representing extreme cases, were meticulously addressed to prevent potential skewing of analysis results.
 
+![newplot (1)](https://github.com/Illias-b/Loan-Approval-Prediction/assets/33836566/8a369b40-b5fa-4ca6-ac5f-407ba2ab3913)
+
+
 ## Data Cleaning and Preprocessing
 
 Following EDA, a rigorous data cleaning process was implemented to address missing values and outliers, ensuring a robust dataset for modelling. Furthermore, categorical variables were encoded to enable their inclusion in the predictive analysis, facilitating a more comprehensive evaluation of factors influencing loan approval.
