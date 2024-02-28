@@ -12,19 +12,17 @@ This report unfolds the analytical journey undertaken to forecast loan approval 
 
 The exploration began with the analysis of income distributions for applicants and coapplicants. The findings revealed a skew towards lower income levels, indicating a substantial segment of the applicant pool might be financially vulnerable. This insight is critical for tailoring loan products to meet the needs of this demographic effectively.
 
-- ![Placeholder for Applicant and Coapplicant Income Histograms]
-
 ### Loan Amount Insights
 
 Further analysis on the distribution of loan amounts illustrated a right-skewed pattern, with a majority of applications for smaller loan amounts, though a notable minority sought larger loans. This variance in loan amounts underscores the diversity in financial needs and aspirations among applicants.
 
-- ![Placeholder for Loan Amount Distribution Diagram]
+![image](https://github.com/Illias-b/Loan-Approval-Prediction/assets/33836566/d1364a0d-0d3a-42d2-bf1a-be5ddd268472)
 
 ### Correlation Insights
 
 A correlation heatmap was constructed to identify relationships between key numerical variables. A moderate correlation between applicant income and loan amount was discerned, highlighting income as a factor in loan sizing but not the sole determinant. This nuanced view suggests that loan approval processes need to account for a broader range of factors beyond income alone.
 
-- ![Placeholder for Correlation Heatmap]
+![image](https://github.com/Illias-b/Loan-Approval-Prediction/assets/33836566/84448d4c-3e3f-46a4-80da-c3bbb701d0b6)
 
 ### Addressing Outliers
 
